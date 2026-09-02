@@ -5,7 +5,9 @@ Projet de simulation réseau réalisé sous Cisco Packet Tracer, mettant en plac
 ## Objectif
 
 Concevoir et configurer une infrastructure réseau simulant la connexion d'un réseau domestique à un établissement scolaire réparti sur deux LAN (réseau pédagogique et réseau d'administration), interconnectés via un lien WAN, avec des services réseau fonctionnels et un routage inter-LAN opérationnel.
+## Topologie
 
+![Topologie du réseau](topologie.png)
 ## Architecture du réseau
 
 Le réseau est composé de 3 LAN reliés entre eux via un WAN (Cluster0 + modems DSL) :
